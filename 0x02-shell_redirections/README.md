@@ -1,1 +1,1 @@
-0x02 shell 10 Readirections and filters
+0x02 Shell 10 Redirections and filters
